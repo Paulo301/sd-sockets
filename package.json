@@ -1,0 +1,19 @@
+{
+  "name": "sd-sockets",
+  "version": "1.0.0",
+  "description": "Projeto de uso de sockets usando node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulo301/sd-sockets.git"
+  },
+  "author": "Paulo Victor Lemos de Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paulo301/sd-sockets/issues"
+  },
+  "homepage": "https://github.com/Paulo301/sd-sockets#readme"
+}
